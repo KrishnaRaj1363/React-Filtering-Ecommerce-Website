@@ -1,0 +1,12 @@
+.heart-icon{
+    margin-left : 0.95rem;
+    font-size: 1.2rem;
+    color: rgb(162, 161, 161);
+
+}
+.heart-icon.active{
+    color : red
+}
+.bag-icon{
+    font-size: 1.2rem;
+}
